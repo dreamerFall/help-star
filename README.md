@@ -1,4 +1,6 @@
-1.record your voice then take your word and convert it into a text<br>
-2.then run commands or speak with (pyttsx3)<br>
-<br>
-that it
+# bug fixed
+__vosk crashing__
+__better error handling__
+__and more..__
+# future
+init pushing for someone who want to use more cpu and ram just to make the tts (text to speech) voice go correctly
