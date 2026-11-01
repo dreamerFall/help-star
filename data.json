@@ -2,5 +2,6 @@
     "name": "dreamer fall",
     "model": "vosk-model-small-en-us-0.15",
     "vers": "1.2.0",
-    "init-push": false
+    "init-push": false,
+    "speech-mode": true,
 }
