@@ -1,6 +1,6 @@
 try:
     print("loading...")
-    from talk_module import clear , Hear , Speak
+    from talk_module import *
     from random import choice
     from webbrowser import open as search
     hear = None
