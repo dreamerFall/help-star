@@ -1,5 +1,6 @@
 {
-    "name": "your name",
-    "model": "your model",
-    "vers": "1.0.0"
+    "name": "dreamer fall",
+    "model": "vosk-model-small-en-us-0.15",
+    "vers": "1.2.0",
+    "init-push": false
 }
